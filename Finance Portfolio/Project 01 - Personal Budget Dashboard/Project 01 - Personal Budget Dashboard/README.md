@@ -48,7 +48,7 @@ The Personal Budget Dashboard is an interactive Microsoft Excel project designed
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](Dashboard_sheet.png)
+![Dashboard](https://github.com/shabeebns/finance-portfolio/blob/main/Finance%20Portfolio/Project%2001%20-%20Personal%20Budget%20Dashboard/Dashboard_sheet.png)
 
 ---
 
