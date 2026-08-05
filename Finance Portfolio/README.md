@@ -71,7 +71,9 @@ To build practical finance projects that demonstrate analytical thinking, busine
 
 ## 📬 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: www.linkedin.com/in/shabeebns
+
+
 - GitHub: *(Your GitHub profile URL)*
 
 ---
