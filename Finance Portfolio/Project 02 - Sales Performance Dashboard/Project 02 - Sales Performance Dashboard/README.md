@@ -49,7 +49,7 @@ The Sales Performance Dashboard is an interactive Microsoft Excel dashboard deve
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](https://github.com/shabeebns/finance-portfolio/tree/main/Finance%20Portfolio/Project%2002%20-%20Sales%20Performance%20Dashboard)
+![Dashboard](Finance Portfolio/Project 02 - Sales Performance Dashboard/Dashboard_sheet.png)
 
 ---
 
